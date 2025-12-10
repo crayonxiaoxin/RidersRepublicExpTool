@@ -5,5 +5,5 @@
 3. 鼠标右键以管理员权限运行 riders_republic.exe
 
 ## 视频演示
-<video src="riders_republic.mp4"></video>
+<video src="./riders_republic.mp4"></video>
 
